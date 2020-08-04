@@ -115,6 +115,8 @@ https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
 
 [Getting Started with Lua Language on ESP32](https://iotdesignpro.com/projects/getting-started-with-lua-programming-on-esp32)
 
+[agoodWatch](https://github.com/AlexGoodyear/agoodWatch)
+
 ## Noteworthy Links
 
 [How to make use of ESP32 internal RTC to setup Epoch time?](https://github.com/espressif/arduino-esp32/issues/3641)
