@@ -117,6 +117,12 @@ https://www.instructables.com/id/Lilygo-T-Watch-2020-Arduino-Framework/
 
 [agoodWatch](https://github.com/AlexGoodyear/agoodWatch)
 
+My-TTGO, Watch firmware + online configurator:
+
+* [Online service](https://my-ttgo-watch.co.uk/)
+* [Watch firmware](https://github.com/sharandac/My-TTGO-Watch)
+* [Online configurator sources](https://github.com/chrismcna/My-TTGO-Watch-Site)
+
 ## Noteworthy Links
 
 [How to make use of ESP32 internal RTC to setup Epoch time?](https://github.com/espressif/arduino-esp32/issues/3641)
